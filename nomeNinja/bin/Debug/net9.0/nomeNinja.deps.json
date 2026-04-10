@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "nomeNinja/1.0.0": {
+        "runtime": {
+          "nomeNinja.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "nomeNinja/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

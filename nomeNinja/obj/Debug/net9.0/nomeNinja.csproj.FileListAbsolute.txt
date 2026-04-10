@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Programacao\nome ninja\nome-ninja\nomeNinja\bin\Debug\net9.0\nomeNinja.exe
+C:\Users\user\Documents\Programacao\nome ninja\nome-ninja\nomeNinja\bin\Debug\net9.0\nomeNinja.deps.json
+C:\Users\user\Documents\Programacao\nome ninja\nome-ninja\nomeNinja\bin\Debug\net9.0\nomeNinja.runtimeconfig.json
+C:\Users\user\Documents\Programacao\nome ninja\nome-ninja\nomeNinja\bin\Debug\net9.0\nomeNinja.dll
+C:\Users\user\Documents\Programacao\nome ninja\nome-ninja\nomeNinja\bin\Debug\net9.0\nomeNinja.pdb
+C:\Users\user\Documents\Programacao\nome ninja\nome-ninja\nomeNinja\obj\Debug\net9.0\nomeNinja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Programacao\nome ninja\nome-ninja\nomeNinja\obj\Debug\net9.0\nomeNinja.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Programacao\nome ninja\nome-ninja\nomeNinja\obj\Debug\net9.0\nomeNinja.AssemblyInfo.cs
+C:\Users\user\Documents\Programacao\nome ninja\nome-ninja\nomeNinja\obj\Debug\net9.0\nomeNinja.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Programacao\nome ninja\nome-ninja\nomeNinja\obj\Debug\net9.0\nomeNinja.sourcelink.json
+C:\Users\user\Documents\Programacao\nome ninja\nome-ninja\nomeNinja\obj\Debug\net9.0\nomeNinja.dll
+C:\Users\user\Documents\Programacao\nome ninja\nome-ninja\nomeNinja\obj\Debug\net9.0\refint\nomeNinja.dll
+C:\Users\user\Documents\Programacao\nome ninja\nome-ninja\nomeNinja\obj\Debug\net9.0\nomeNinja.pdb
+C:\Users\user\Documents\Programacao\nome ninja\nome-ninja\nomeNinja\obj\Debug\net9.0\nomeNinja.genruntimeconfig.cache
+C:\Users\user\Documents\Programacao\nome ninja\nome-ninja\nomeNinja\obj\Debug\net9.0\ref\nomeNinja.dll
